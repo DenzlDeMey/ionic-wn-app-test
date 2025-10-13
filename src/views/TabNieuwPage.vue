@@ -42,10 +42,15 @@
 					</ion-col>
 				</ion-row>
 
-				<!-- Het volgende deel staat hier enkel als DEMO voor de reactiviteit in Vue -->
-				<!-- Het is niet nodig voor jouw project, maar je kan het gebruiken om de reactiviteit te testen -->
 				<ion-row>
 					<ion-col>
+						<ion-item>
+							<p>
+								Het deel hieronder dient enkel voor de demo van de reactiviteit.<br>
+								Het is niet nodig voor jouw project, maar je kan het gebruiken om de reactiviteit te testen
+							</p>
+						</ion-item>
+
 						<ion-item>
 							<ion-label>Product: {{ productNaam }}</ion-label>
 						</ion-item>
